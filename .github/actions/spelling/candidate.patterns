@@ -1,0 +1,5 @@
+# Google Scholar
+\bscholar\.google\.com/citations\?user=[A-Za-z0-9_]+
+
+# Google Colab Research Drive
+\bcolab\.research\.google\.com/drive/[-0-9a-zA-Z_?=]*
